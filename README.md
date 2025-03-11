@@ -30,13 +30,19 @@ Passionate about technology and enjoying a career transition as a data scientist
 |![](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)|![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)|![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)|![](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)|![](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge)|
   
 
-## Proyectos
-
-<td width="50">
-<h3 align="center">Proyecto final Hack a boss</h3>
-<div aling='center'>
-<a href="https://github.com/diegodiazgomez/PFB-Grupo-B" a>
-
+## Projects
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Proyecto final de Hack a boss REE</h3>
+<div align="center">
+<a href="https://github.com/diegodiazgomez/PFB-Grupo-B" target="_blank"><img src="https://imgur.com/Kyb2HRu.png" width="400" alt="Proyecto final de Hack a boss"></a>
+<p>
+<a href="https://github.com/diegodiazgomez/PFB-Grupo-B" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p>Our Streamlit project analyzes the balance, demand, generation, and energy exchanges in Spain, featuring interactive visualizations and short-term demand forecasts using a Machine Learning model based on REData.</p>
 
 
 ##  📫 Connect with me on 
