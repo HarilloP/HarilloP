@@ -44,6 +44,20 @@ Passionate about technology and enjoying a career transition as a data scientist
 </p>
 <p>Our Streamlit project analyzes the balance, demand, generation, and energy exchanges in Spain, featuring interactive visualizations and short-term demand forecasts using a Machine Learning model based on REData.</p>
 
+<tr>
+<td width="50%">
+<h3 align= "center">Proyecto Doñana</h3>
+<div align="center">
+<a href="https://github.com/HarilloP/Proyecto_Donana" target="_blank"><img src = "https://raw.githubusercontent.com/HarilloP/Proyecto_Donana/main/sources/Doñana_proyecto.png" width="400" alt="Proyecto Doñana"></a>
+<p>
+<a href="https://github.com/HarilloP/Proyecto_Donana" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p>Doñana National Park is one of the richest and most diverse ecosystems in Europe, renowned for its key role in the conservation of migratory birds. Thanks to its variety of habitats—marshes, dunes, forests, and shrublands—it hosts a great diversity of species throughout the year.
+
+The aim of this project is to collect, analyze, and visualize real-time data on bird presence in Doñana using the eBird API. Through this application, we seek to provide up-to-date information on observed species, their distribution, and migration patterns.</p>
+
 
 ##  📫 Connect with me on 
 <br>
